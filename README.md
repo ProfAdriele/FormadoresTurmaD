@@ -1,6 +1,6 @@
 # FormadoresTurmaD
 
-## site da turma D
+## Site da turma D
 
 Projetos do curso Formadores.
 
