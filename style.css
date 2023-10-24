@@ -3,10 +3,14 @@
     text-aling: center;
     font-size: 40px; 
 }
-.textorosaclaro{
+.texto-rosaclaro{
     text-align: justify;
     color: blueviolet;
 }
+.texto-rosamedio{
+    text-align: justify;
+}
+
 body{
     background-color: black;
 }
