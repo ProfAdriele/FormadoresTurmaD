@@ -1,5 +1,11 @@
 h1{
-    color :magenta
+    color :magenta;
     text-aling: center;
     font-size: 35px; 
+}
+p{
+    text-align: justify;
+}
+body{
+    background-color: black;
 }
