@@ -1,9 +1,9 @@
-h1{
+#tituloprincipal{
     color :magenta;
     text-aling: center;
-    font-size: 35px; 
+    font-size: 40px; 
 }
-p{
+.textorosaclaro{
     text-align: justify;
     color: blueviolet;
 }
