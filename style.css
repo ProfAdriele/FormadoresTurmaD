@@ -1,12 +1,5 @@
-body{
-    background-color: black;
-}
 
-#banner{
-    width: 30%;/*largura/;
-    
 
-}
 
 
 #titulo-principal{
@@ -28,3 +21,8 @@ body{
     color: deeppink;
 }
 
+body{
+    background-color: black;
+}#banner{
+   width: 30%;/*largura/; 
+}
