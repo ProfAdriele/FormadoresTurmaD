@@ -1,4 +1,6 @@
-
+body{
+    background-color: black;
+}
 #titulo-principal{
 
     color :magenta;
@@ -18,7 +20,3 @@
     color: deeppink;
 }
 
-body{
-    background-color: black;
-}
-#titulo-principal
