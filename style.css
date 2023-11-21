@@ -27,7 +27,8 @@ body{
         }
         .benefícios{ 
             background-color: palevioletred;
-            font-size: center;
+            text-align: center;
+            color: deeppink;
         }
     }
 }
