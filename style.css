@@ -1,41 +1,44 @@
+#titulo-principal {
 
-#titulo-principal{
-
-    color :magenta;
+    color: magenta;
     text-align: center;
-    font-size: 40px; 
+    font-size: 40px;
 }
-.texto-rosaclaro{
+
+.texto-rosaclaro {
     text-align: justify;
     color: blueviolet;
 }
-.texto-rosamedio{
+
+.texto-rosamedio {
     text-align: justify;
     color: rgba(226, 43, 150, 0.692);
 }
-.texto-rosaescuro{
+
+.texto-rosaescuro {
     text-align: justify;
     color: deeppink;
 }
 
-body{
+body {
     background-color: rgba(0, 0, 0, 0.116);
-    .cabecalho{ 
+}
+
+    .cabecalho {
         background-color: blueviolet;
-        itens{
-            font-size: italic;
-        }
-        .benefícios{ 
-            background-color: palevioletred;
-            text-align: justify;
-            color: deeppink;
-        }
     }
-}
-#banner{
-   width: 100%;/*largura/; 
-}
 
+    .itens {
+        font-size: italic;
+    }
 
+    .beneficios {
+        background-color: palevioletred;
+        text-align: justify;
+        color: deeppink;
+    }
 
-
+    #banner {
+        width: 100%;
+        /*largura*/; 
+    }
