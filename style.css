@@ -20,16 +20,20 @@
 
 body{
     background-color: rgba(0, 0, 0, 0.116);
+    .cabecalho{ 
+        background-color: blueviolet;
+        itens{
+            font-size: italic;
+        }
+        .benefícios{ 
+            background-color: palevioletred;
+        }
+    }
 }
 #banner{
    width: 100%;/*largura/; 
 }
 
-.itens{
 
-    font-style: italic
-}
 
-.benefícios{
-    background-color:
-    { 
+
