@@ -26,6 +26,11 @@ body {
 
     .cabecalho {
         background-color: blueviolet;
+        padding: 10px;
+        border-bottom: 4px ;
+        text-align: center;
+        display: flex;
+        
     }
 
     .itens {
@@ -34,6 +39,7 @@ body {
 
     .beneficios {
         background-color: palevioletred;
+        
         text-align: justify;
         color: deeppink;
     }
