@@ -35,7 +35,9 @@ body {
     }
 
     .itens {
+        display:inline-block;
         font-size: italic;
+
     }
 
     .beneficios {
