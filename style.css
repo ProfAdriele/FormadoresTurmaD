@@ -26,15 +26,12 @@ body {
 
     .cabecalho {
         background-color: blueviolet;
-<<<<<<< HEAD
         padding:20px;
         border-bottom : 2px solid white;
         font-size: 32px;
         color:rgba(226, 43, 150, 0.692);
         text-align: center;
         display: flex;
-        
->>>>>>> 98d6646b9b96d82086c30d062d369afee194c3fc
     }
 
     .itens {
